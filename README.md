@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafi</h1>
-<h3 align="center">Informatics Engineering Student | Android & Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Aldi Putra Hamalsyah</h1>
+<h3 align="center">Informatics Engineering Student | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+creative+problem+solver" />
