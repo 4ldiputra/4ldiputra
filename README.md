@@ -26,18 +26,15 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafi123&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi123&layout=compact&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ldiputra&layout=compact&theme=radical" height="160">
 </p>
 
 ---
 
-### 🎮 Want to Play Something Fun?
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<a href="https://rafi123.github.io/pacman-game/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/pacman.gif" width="300px" />
-</a>
-
-🕹️ Klik gambar di atas untuk main game Pac-Man buatan saya!
 
 ---
 
